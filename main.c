@@ -142,7 +142,7 @@ int main() {
                 scanf("%i%i",&e,&f);
                 t=(int *) malloc(e* sizeof(int));
                 if(!t){
-                    printf("Sikertelen malloc");
+                    printf("sikertelen malloc");
                     break;
                 }
                         }
